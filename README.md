@@ -1,6 +1,6 @@
-# HRD LAB 3D
+# Imprime que Resolve
 
-A **HRD LAB 3D** é um laboratório de manufatura sob demanda especializado em impressão 3D, modelagem e personalização de peças. Unimos tecnologia, acabamento de precisão e atenção aos detalhes para transformar arquivos digitais, fotografias e ideias em objetos reais, resistentes e exclusivos.
+A **Imprime que Resolve** é um laboratório de manufatura sob demanda especializado em impressão 3D, modelagem e personalização de peças. Unimos tecnologia, acabamento de precisão e atenção aos detalhes para transformar arquivos digitais, fotografias e ideias em objetos reais, resistentes e exclusivos.
 
 ## O que fazemos
 
@@ -46,7 +46,7 @@ Atendemos projetos locais e enviamos peças para todo o Brasil.
 
 A página institucional está disponível em:
 
-**https://hiagodrigo.github.io/hrdlab3d/**
+**https://hiagodrigo.github.io/imprime-que-resolve/**
 
 O site é um projeto estático criado em HTML e CSS. Após alterações, o GitHub Pages publica automaticamente o conteúdo a partir do branch `main`.
 
