@@ -18,6 +18,13 @@ A **Imprime que Resolve** é um laboratório de manufatura sob demanda especiali
 - Acessórios automotivos sob medida
 - Componentes em materiais técnicos e resistentes
 
+### Soluções para empresas e personalizados
+
+- Chaveiros personalizados
+- Brindes e itens com a identidade da marca
+- Peças personalizadas para equipes e eventos
+- Produção sob demanda em pequenas séries
+
 ### Prototipagem e modelagem
 
 - Conversão de ideias e esboços em modelos 3D
@@ -47,6 +54,8 @@ Atendemos projetos locais e enviamos peças para todo o Brasil.
 A página institucional está disponível em:
 
 **https://hiagodrigo.github.io/imprime-que-resolve/**
+
+Instagram: [@imprimequeresolve](https://www.instagram.com/imprimequeresolve/)
 
 O site é um projeto estático criado em HTML e CSS. Após alterações, o GitHub Pages publica automaticamente o conteúdo a partir do branch `main`.
 
